@@ -3,12 +3,12 @@ body,
 h1 {
   padding: 0;
   margin: 0;
-  background-image: url(./complementos/8045850.jpg);
 
 }
 
 body {
   color: #ffffff;
+  background-image: url(./complementos/8045850.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: monospace;
